@@ -42,6 +42,13 @@
 
 ---
 [![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=thearnabsaha)](https://github.com/thearnabsaha/github-readme-stats)
+<br />
+<br />
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha)](https://github.com/thearnabsaha/github-readme-stats)
+
+
 
 [website]: https://thearnabsaha.com
 [twitter]: https://twitter.com/TheArnabSaha
