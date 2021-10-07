@@ -46,7 +46,8 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha)](https://github.com/thearnabsaha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha&layout=compact)](https://github.com/thearnabsaha/github-readme-stats)
+
 
 
 
