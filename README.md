@@ -41,13 +41,7 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="thearnabsaha's GitHub Stats" src="https://github-readme-stats.thearnabsaha.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=thearnabsaha)](https://github.com/thearnabsaha/github-readme-stats)
 
 [website]: https://thearnabsaha.com
 [twitter]: https://twitter.com/TheArnabSaha
