@@ -2,11 +2,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 🔥 I'm also trying to hone my skills in the field of  **Web Developement And Blockchain**
-- 🏄‍I am Software Developer looking for Full Stack Opportunity .
-- 💻 All of my projects are available at [http://rhtlive.tk](http://rhtlive.tk)
-- 📫 Drop a mail at **thearnabsaha201@gmail.com**
+### Hi there, I'm Arnab - aka [thearnabsaha][website] 👋
+
+## I'm a Student, Freelancer, Developer, and Podcaster
+
+- 🌱 I’m currently learning Blockchain Technology
+- 👯 I’m looking for Freelance Projects
+- 🥅 2022 Goals: Do much freelance works
+- ⚡ Fun fact: I am the owner of "best bengali self-help podcast"
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,8 +37,10 @@
 
 ### 👀 My Github Stats
 
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rht-singh&count_private=true&show_icons=true&theme=radical)](https://github.com/rht-singh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rht-singh&show_icons=true&theme=radical&layout=compact)](https://github.com/rht-singh)
+[![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=thearnabsaha)](https://github.com/thearnabsaha/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha&layout=compact)](https://github.com/thearnabsaha/github-readme-stats)
+
 </a>
 
 <p align="center">
@@ -49,13 +54,13 @@
 ## Connect with me  
 
 <div align="center">
-<a href="https://github.com/rht-singh" target="_blank">
+<a href="https://github.com/thearnabsaha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/rohit-singh-922988206/" target="_blank">
+<a href="https://www.linkedin.com/in/thearnabsaha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/rht_singh08/" target="_blank">
+<a href="https://www.instagram.com/thearnabsaha/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -70,3 +75,4 @@
 - I'm always open to share my Spotify playlist..<br/>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+[website]: https://grevelops.co
