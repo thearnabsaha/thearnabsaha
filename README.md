@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-### Hi there, I'm Arnab - aka [thearnabsaha][website] 👋
+### Hi there, I'm Arnab - aka [thearnabsaha][https://grevelops.co] 👋
 
 ## I'm a Student, Freelancer, Developer, and Podcaster
 
@@ -66,11 +66,10 @@
 
 ### Vibing to
 
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs?si=0901a0e7ca2d497b)
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc?si=ba8f1521b5fe4bac)
 
 ## And
 
 - I'm always open to share my Spotify playlist..<br/>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-[website]: https://grevelops.co
