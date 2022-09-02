@@ -37,19 +37,17 @@
 
 ### 👀 My Github Stats
 
-[![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=thearnabsaha)](https://github.com/thearnabsaha/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha&layout=compact)](https://github.com/thearnabsaha/github-readme-stats)
-
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=thearnabsaha&count_private=true&show_icons=true&theme=radical)](https://github.com/thearnabsaha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha&show_icons=true&theme=radical&layout=compact)](https://github.com/thearnabsaha)
 </a>
 
 <p align="center">
-    <a href="https://github.com/rht-singh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rht-singh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/thearnabsaha/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thearnabsaha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-<a href="https://github.com/rht-singh/github-readme-activity-graph"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rht-singh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/thearnabsaha/github-readme-activity-graph"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thearnabsaha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me  
 
