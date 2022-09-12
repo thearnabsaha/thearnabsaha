@@ -58,7 +58,7 @@
 </a>  
 
 </div>  
-
+![snake gif dark](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.svg)
 ### Vibing to
 
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc?si=ba8f1521b5fe4bac)
