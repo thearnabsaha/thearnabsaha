@@ -1,69 +1,86 @@
-# Hey there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Arnab</h1>
+<h3 align="center">🚀 Student | Developer | Freelancer | Podcaster</h3>
+
+<p align="center">
+  <a href="https://grevelops.co" target="_blank"><strong>🌐 Visit My Website</strong></a>
+</p>
+
+---
 
 ## 🙋‍♂️ About Me
 
-### I'm Arnab - aka [@thearnabsaha][https://grevelops.co] 👋
+- 🔭 Currently working as a Consultant @ PwC
+- 🌱 Learning **Blockchain Technology**
+- 🎙 Hosting the *Best Bengali Self-Help Podcast* 🎧
+- 👯 Open to exciting freelance opportunities
+- 🥅 2025 Goals: Land a $100k remote role & build impactful tech
+- ⚡ Fun Fact: I love mixing tech and storytelling through my podcast
 
-## I'm a Student, Freelancer, Developer, and Podcaster
+---
 
-- 🌱 I’m currently learning Blockchain Technology
-- 👯 I’m looking for Freelance Projects
-- 🥅 2022 Goals: Do much freelance works
-- ⚡ Fun fact: I am the owner of "best bengali self-help podcast"
+## 🛠 Tech Stack
 
-### 🛠 &nbsp;Tech Stack
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Solidity](https://img.shields.io/badge/-solidity-05122A?style=flat&logo=solidity)&nbsp;
-![IPFS](https://img.shields.io/badge/-ipfs-05122A?style=flat&logo=ipfs)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 👀 My Github Stats
+### Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
-[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=thearnabsaha&count_private=true&show_icons=true&theme=radical)](https://github.com/thearnabsaha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha&show_icons=true&theme=radical&layout=compact)](https://github.com/thearnabsaha)
-</a>
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-<p align="center">
-    <a href="https://github.com/thearnabsaha/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arnab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thearnabsaha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+---
 
-<a href="https://github.com/thearnabsaha/github-readme-activity-graph"><img alt="Arnab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thearnabsaha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-## Connect with me  
+## 📈 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/thearnabsaha" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/thearnabsaha/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/thearnabsaha/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  <img src="https://github-readme-stats.vercel.app/api?username=thearnabsaha&show_icons=true&theme=radical&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha&layout=compact&theme=radical" height="170px"/>
+</div>
 
-</div>  
-### Vibing to
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearnabsaha&theme=black-ice&hide_border=true" alt="streak stats"/>
+</p>
 
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc?si=ba8f1521b5fe4bac)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearnabsaha&theme=github_dark"/>
+</p>
 
-## And
+---
 
-- I'm always open to share my Spotify playlist..<br/>
+## 🔗 Connect With Me
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <a href="https://github.com/thearnabsaha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thearnabsaha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/thearnabsaha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## 🎧 Currently Vibing To
+
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31m6rro6ge6t7arvh2rohksoijzm?si=b8fa3d03f6404ea6)
+
+> Always happy to share my playlist with fellow music lovers 🎶
+
+---
+
+<p align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</p>
