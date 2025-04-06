@@ -9,11 +9,23 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 Consultant @ PwC | B.Tech in CSE
+- 🎓 B.Tech in Computer Science & Technology, **IIEST Shibpur (Class of 2024)**
+- 💼 Consultant @ PwC
 - ☁️ Currently diving deep into **Azure Cloud & DevOps**
 - 🔖 Completed **AZ-900**, working on **AZ-104, AZ-305 & AZ-400**
 - 👯 Actively looking for freelance projects
-- 🥅 2025 Goals: Land a $100k remote job & contribute to open source
+- 🧠 Passionate about building cloud-native applications
+- 📚 Love to read books on self-improvement & tech
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Complete Azure certifications: AZ-900, AZ-104, AZ-305, AZ-400
+- 🚀 Transition into a full-time **Cloud Developer** or **DevOps Engineer**
+- 🧠 Build and deploy 5+ production-grade cloud-native projects
+- 🤝 Contribute to open source and tech communities
+- 💼 Get a $100k remote job offer in cloud/devops
 
 ---
 
@@ -42,6 +54,19 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+## 🧠 Learning Path
+
+- [x] AZ-900: Azure Fundamentals ✅
+- [ ] AZ-104: Azure Administrator
+- [ ] AZ-305: Azure Solutions Architect
+- [ ] AZ-400: DevOps Engineer Expert
+- [ ] Kubernetes Basics
+- [ ] Terraform for Azure
+- [ ] Azure Bicep
 
 ---
 
@@ -59,6 +84,12 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearnabsaha&theme=github_dark"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+Coming soon... 🔧
 
 ---
 
