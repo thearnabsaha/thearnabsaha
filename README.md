@@ -60,10 +60,10 @@
 
 ## 🧠 Learning Path
 
-- [x] AZ-900: Azure Fundamentals ✅
-- [ ] AZ-104: Azure Administrator
-- [ ] AZ-305: Azure Solutions Architect
-- [ ] AZ-400: DevOps Engineer Expert
+- [x] AZ-900: Azure Fundamentals ✅  
+- [ ] AZ-104: Azure Administrator  
+- [ ] AZ-305: Azure Solutions Architect  
+- [ ] AZ-400: DevOps Engineer Expert  
 
 ---
 
@@ -75,7 +75,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearnabsaha&theme=black-ice&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=thearnabsaha&theme=black-ice&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
@@ -99,7 +99,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
