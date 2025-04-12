@@ -50,7 +50,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0e72ec&center=true&vCenter=true&width=435&lines=🚧+Projects+Coming+Soon...+Stay+Tuned!+🚀" alt="Coming Soon Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=0e72ec&center=true&vCenter=true&width=435&lines=🚧+Projects+Coming+Soon...+Stay+Tuned!+🚀" alt="Coming Soon Typing Animation" />
 </p>
 
 ---
