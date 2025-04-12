@@ -32,7 +32,6 @@
 ---
 
 ## 🙋‍♂️ About Me
-<h3 align="center">☁️ Cloud Enthusiast | 🛠 DevOps Learner | 💻 Freelancer | 🌍 Tech Explorer</h3>
 - 🎓 B.Tech in Computer Science & Technology, **IIEST Shibpur (Class of 2024)**
 - 💼 Associate Consultant @ **PwC India**
 - ☁️ Exploring **Azure Cloud & DevOps** tools and best practices
