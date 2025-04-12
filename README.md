@@ -1,4 +1,14 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+
+
+
+ <!--  ![MasterHead](https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif). -->
+
+ ![MasterHead](https://github.com/amandewatnitrr/amandewatnitrr/blob/c0e0a8a3090a27073acfd6e729a094cfc3e10c55/header_.png) 
+
+ <!--![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)  -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h1 align="center">Hey there! I'm Arnab Saha</h1>
 <h3 align="center">☁️ Cloud Enthusiast | 🛠 DevOps Learner | 💻 Freelancer | 🌍 Tech Explorer</h3>
 
