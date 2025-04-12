@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center">☁️ Cloud Enthusiast | 🛠 DevOps Learner | 💻 Freelancer | 🌍 Tech Explorer</h3>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e72ec&height=200&section=header&text=Welcome%20to%20Arnab's%20GitHub!&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40"/>
@@ -32,14 +32,11 @@
 ---
 
 ## 🙋‍♂️ About Me
-
+<h3 align="center">☁️ Cloud Enthusiast | 🛠 DevOps Learner | 💻 Freelancer | 🌍 Tech Explorer</h3>
 - 🎓 B.Tech in Computer Science & Technology, **IIEST Shibpur (Class of 2024)**
 - 💼 Associate Consultant @ **PwC India**
 - ☁️ Exploring **Azure Cloud & DevOps** tools and best practices
-- 👨‍💻 Learning by **building production-grade, cloud-native applications**
-- 🧑‍🔬 Always curious about system design, scalability, and automation
 - 📬 Available for freelance/contract work — DM me!
-- 📚 Non-fiction reader: psychology, productivity, and tech
 
 ---
 
@@ -50,7 +47,6 @@
 - 🔄 AZ-305: Azure Solutions Architect *(coming up)*
 - 🔄 AZ-400: DevOps Engineer Expert *(lined up)*
 - 🚀 Transition into a **Cloud Developer** or **DevOps Engineer**
-- 📦 Build and launch 5+ impactful side-projects
 - 🌱 Start contributing to **open-source**
 
 ---
