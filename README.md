@@ -17,7 +17,6 @@
 
 <!-- Portfolio and View Count -->
 <p align="center">
-  <a href="https://grevelops.co" target="_blank"><strong>🌐 Visit My Portfolio Website</strong></a>  
   <br/>
   <a href="https://twitter.com/thearnabsaha" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -28,7 +27,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me <a href="https://grevelops.co" target="_blank"><strong>🌐 Visit My Portfolio Website</strong></a>  
 
 - 🎓 B.Tech in Computer Science & Technology, **IIEST Shibpur (Class of 2024)**
 - 💼 Associate Consultant @ **PwC India**
