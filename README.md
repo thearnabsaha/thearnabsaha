@@ -9,7 +9,15 @@
  <!--![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)  -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h1 align="center">Hey there! I'm Arnab Saha</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Soham+Patra;Nice+to+meet+you!&center=true&size=35">
+  </a>
+</h1>
+
+
+
 <h3 align="center">☁️ Cloud Enthusiast | 🛠 DevOps Learner | 💻 Freelancer | 🌍 Tech Explorer</h3>
 
 <p align="center">
