@@ -1,12 +1,7 @@
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
-
-
- <!--  ![MasterHead](https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif). -->
-
- ![MasterHead](https://github.com/amandewatnitrr/amandewatnitrr/blob/c0e0a8a3090a27073acfd6e729a094cfc3e10c55/header_.png) 
-
- <!--![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)  -->
+<!-- Banner and Intro -->
+![MasterHead](https://github.com/amandewatnitrr/amandewatnitrr/blob/c0e0a8a3090a27073acfd6e729a094cfc3e10c55/header_.png) 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -16,22 +11,25 @@
   </a>
 </h1>
 
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e72ec&height=200&section=header&text=Welcome%20to%20Arnab's%20GitHub!&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40"/>
 </p>
 
+<!-- Portfolio and View Count -->
 <p align="center">
-  <a href="https://grevelops.co" target="_blank"><strong>🌐 Visit My Portfolio Website</strong></a>
-  <p display="inline"> <img src="https://komarev.com/ghpvc/?username=thearnabsaha&label=Profile%20views&color=0e75b6&style=flat" alt="thearnabsaha" /> 
+  <a href="https://grevelops.co" target="_blank"><strong>🌐 Visit My Portfolio Website</strong></a>  
+  <br/>
+  <a href="https://twitter.com/thearnabsaha" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=thearnabsaha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
+
 - 🎓 B.Tech in Computer Science & Technology, **IIEST Shibpur (Class of 2024)**
 - 💼 Associate Consultant @ **PwC India**
 - ☁️ Exploring **Azure Cloud & DevOps** tools and best practices
@@ -41,22 +39,20 @@
 
 ## 🎯 2025 Goals
 
-- ✅ AZ-900: Azure Fundamentals
-- 🔄 AZ-104: Azure Administrator *(in progress)*
-- 🔄 AZ-305: Azure Solutions Architect *(coming up)*
-- 🔄 AZ-400: DevOps Engineer Expert *(lined up)*
-- 🚀 Transition into a **Cloud Developer** or **DevOps Engineer**
+- ✅ AZ-900: Azure Fundamentals  
+- 🔄 AZ-104: Azure Administrator *(in progress)*  
+- 🔄 AZ-305: Azure Solutions Architect *(coming up)*  
+- 🔄 AZ-400: DevOps Engineer Expert *(lined up)*  
+- 🚀 Transition into a **Cloud Developer** or **DevOps Engineer**  
 - 🌱 Start contributing to **open-source**
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **ChatSync** | Real-time messaging with WebSocket rooms and persistent chat | React + Vite, Node.js, WebSockets, TypeScript, PostgreSQL |
-| **AzureMon** | Cloud-native monitoring dashboard for Azure resources | Next.js, Azure SDK, Tailwind, ShadCN, Turborepo |
-| **TaskForge** *(Coming Soon)* | Serverless task automation with custom CI/CD pipelines | Azure DevOps, Functions, Cosmos DB |
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0e72ec&center=true&vCenter=true&width=435&lines=🚧+Projects+Coming+Soon...+Stay+Tuned!+🚀" alt="Coming Soon Typing Animation" />
+</p>
 
 ---
 
@@ -114,6 +110,7 @@
 <p align="center">
   <a href="https://github.com/thearnabsaha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thearnabsaha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/thearnabsaha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/thearnabsaha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
