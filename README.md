@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Arnab Saha</h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 <h1 align="center">Hey there! I'm Arnab Saha</h1>
 <h3 align="center">☁️ Cloud Enthusiast | 🛠 DevOps Learner | 💻 Freelancer | 🌍 Tech Explorer</h3>
 
