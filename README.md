@@ -26,6 +26,7 @@
 
 <p align="center">
   <a href="https://grevelops.co" target="_blank"><strong>🌐 Visit My Portfolio Website</strong></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=thearnabsaha&label=Profile%20views&color=0e75b6&style=flat" alt="thearnabsaha" /> 
 </p>
 
 ---
