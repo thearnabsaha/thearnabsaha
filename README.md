@@ -1,8 +1,12 @@
 <h1 align="center">Hey there! I'm Arnab Saha</h1>
-<h3 align="center">🚀 Cloud Enthusiast | Developer | Freelancer | Tech Explorer</h3>
+<h3 align="center">☁️ Cloud Enthusiast | 🛠 DevOps Learner | 💻 Freelancer | 🌍 Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://grevelops.co" target="_blank"><strong>🌐 Visit My Website</strong></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e72ec&height=200&section=header&text=Welcome%20to%20Arnab's%20GitHub!&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40"/>
+</p>
+
+<p align="center">
+  <a href="https://grevelops.co" target="_blank"><strong>🌐 Visit My Portfolio Website</strong></a>
 </p>
 
 ---
@@ -10,36 +14,51 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech in Computer Science & Technology, **IIEST Shibpur (Class of 2024)**
-- 💼 Consultant @ PwC
-- ☁️ Currently diving deep into **Azure Cloud & DevOps**
-- 👯 Actively looking for freelance projects
-- 🧠 Passionate about building cloud-native applications
-- 📚 Love to read books on self-improvement & tech
+- 💼 Associate Consultant @ **PwC India**
+- ☁️ Exploring **Azure Cloud & DevOps** tools and best practices
+- 👨‍💻 Learning by **building production-grade, cloud-native applications**
+- 🧑‍🔬 Always curious about system design, scalability, and automation
+- 📬 Available for freelance/contract work — DM me!
+- 📚 Non-fiction reader: psychology, productivity, and tech
 
 ---
 
 ## 🎯 2025 Goals
 
-- ✅ Complete Azure certifications: AZ-900, AZ-104, AZ-305, AZ-400
-- 🚀 Transition into a full-time **Cloud Developer** or **DevOps Engineer**
-- 🧠 Build and deploy 5+ production-grade cloud-native projects
-- 🤝 Contribute to open source and tech communities
+- ✅ AZ-900: Azure Fundamentals
+- 🔄 AZ-104: Azure Administrator *(in progress)*
+- 🔄 AZ-305: Azure Solutions Architect *(coming up)*
+- 🔄 AZ-400: DevOps Engineer Expert *(lined up)*
+- 🚀 Transition into a **Cloud Developer** or **DevOps Engineer**
+- 📦 Build and launch 5+ impactful side-projects
+- 🌱 Start contributing to **open-source**
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **ChatSync** | Real-time messaging with WebSocket rooms and persistent chat | React + Vite, Node.js, WebSockets, TypeScript, PostgreSQL |
+| **AzureMon** | Cloud-native monitoring dashboard for Azure resources | Next.js, Azure SDK, Tailwind, ShadCN, Turborepo |
+| **TaskForge** *(Coming Soon)* | Serverless task automation with custom CI/CD pipelines | Azure DevOps, Functions, Cosmos DB |
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-F00000?style=for-the-badge&logo=websockets&logoColor=white)
@@ -55,15 +74,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turbo&logoColor=white)
-
----
-
-## 🧠 Learning Path
-
-- [x] AZ-900: Azure Fundamentals ✅  
-- [ ] AZ-104: Azure Administrator  
-- [ ] AZ-305: Azure Solutions Architect  
-- [ ] AZ-400: DevOps Engineer Expert  
 
 ---
 
@@ -84,13 +94,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### Incoming 👨‍💻
-
----
-
-## 🔗 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://github.com/thearnabsaha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
