@@ -91,24 +91,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearnabsaha&theme=github_dark"/>
 </p>
- <details open>
- <summary><h2>My Top Repos</h2></summary>
- 
- <p align="left">
-<a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=thearnabsaha&repo=InteractO&theme=radical&show_icons=false" />
-</a>
- <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=thearnabsaha&repo=Createevity&theme=radical" />
-</a>
- <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=thearnabsaha&repo=Illumination-Control-Using-Computer-Vision&theme=radical" />
-</a>
- <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=thearnabsaha&repo=playing-with-socket&theme=radical" />
-</a>
-</p>
-</details>
+
 ---
 
 
