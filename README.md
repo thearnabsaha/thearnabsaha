@@ -83,24 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thearnabsaha&show_icons=true&theme=radical&count_private=true" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha&layout=compact&theme=radical" height="170px"/>
 </div>
- <details open>
- <summary><h2>My Top Repos</h2></summary>
- 
- <p align="left">
-<a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=RaunakGN2001&repo=InteractO&theme=radical&show_icons=false" />
-</a>
- <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=RaunakGN2001&repo=Createevity&theme=radical" />
-</a>
- <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=RaunakGN2001&repo=Illumination-Control-Using-Computer-Vision&theme=radical" />
-</a>
- <a href="https://github.com/RaunakGN2001/github-readme-stats">
- <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=RaunakGN2001&repo=playing-with-socket&theme=radical" />
-</a>
-</p>
-</details>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=thearnabsaha&theme=black-ice&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
@@ -108,7 +91,24 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearnabsaha&theme=github_dark"/>
 </p>
-
+ <details open>
+ <summary><h2>My Top Repos</h2></summary>
+ 
+ <p align="left">
+<a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=thearnabsaha&repo=InteractO&theme=radical&show_icons=false" />
+</a>
+ <a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=thearnabsaha&repo=Createevity&theme=radical" />
+</a>
+ <a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=thearnabsaha&repo=Illumination-Control-Using-Computer-Vision&theme=radical" />
+</a>
+ <a href="https://github.com/RaunakGN2001/github-readme-stats">
+ <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=thearnabsaha&repo=playing-with-socket&theme=radical" />
+</a>
+</p>
+</details>
 ---
 
 
