@@ -83,16 +83,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thearnabsaha&show_icons=true&theme=radical&count_private=true" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearnabsaha&layout=compact&theme=radical" height="170px"/>
 </div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thearnabsaha&theme=black-ice&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearnabsaha&theme=github_dark"/>
-</p>
-
----
  <details open>
  <summary><h2>My Top Repos</h2></summary>
  
@@ -111,7 +101,16 @@
 </a>
 </p>
 </details>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=thearnabsaha&theme=black-ice&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thearnabsaha&theme=github_dark"/>
+</p>
+
 ---
+
 
 ## 📬 Connect With Me
 
