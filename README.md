@@ -1,15 +1,3 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
-
-<!-- Banner and Intro -->
-![MasterHead](https://github.com/amandewatnitrr/amandewatnitrr/blob/c0e0a8a3090a27073acfd6e729a094cfc3e10c55/header_.png) 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arnab+Saha;Nice+to+meet+you!&center=true&size=35">
-  </a>
-</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e72ec&height=200&section=header&text=Welcome%20to%20Arnab's%20GitHub!&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40"/>
