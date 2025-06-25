@@ -29,8 +29,6 @@
 
 - ✅ AZ-900: Azure Fundamentals  
 - 🔄 AZ-104: Azure Administrator *(in progress)*  
-- 🔄 AZ-305: Azure Solutions Architect *(coming up)*  
-- 🔄 AZ-400: DevOps Engineer Expert *(lined up)*  
 - 🚀 Transition into a **Cloud Developer** or **DevOps Engineer**  
 - 🌱 Start contributing to **open-source**
 
